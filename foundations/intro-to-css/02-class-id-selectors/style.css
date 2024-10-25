@@ -1,0 +1,19 @@
+p {
+    background-color: #f8798c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#dos {
+    color: #001aff;
+    font-size: 36px;
+}
+
+#quatro {
+    background-color: #c5f3bc;
+    font-size: 24px;
+    font-weight: bold;
+}
